@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "Super vehicle, awesome experience to ride this bike and, I am very happy to buy this bike. Thanks, Yamaha for this wonderful bike. "
+    },
+    {
+        "id": 2,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "Its performance is very best. It's giving around 40+ mileage, and the best thing about this bike is its top speed. "
+    },
+    {
+        "id": 3,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "Awesome bike in 150cc to 200cc segment. Looks good, but I want a little bit more attractive design, but it's ok, not a big issue. Otherwise, mileage is nice over 40kmpl, top speed is awesome up to 150kmph, and it sounds very nice and amazing. Most probably this is the best sounding single-cylinder bike in the world. "
+    },
+    {
+        "id": 4,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+    },
+    {
+        "id": 5,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+    },
+    {
+        "id": 6,
+        "name": "Joshua",
+        "logo": "J",
+        "star": 5,
+        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+    }
+]
