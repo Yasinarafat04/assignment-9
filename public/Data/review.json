@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "Joshua",
+        "name": "Josh",
         "logo": "J",
         "star": 5,
         "description": "Super vehicle, awesome experience to ride this bike and, I am very happy to buy this bike. Thanks, Yamaha for this wonderful bike. "
     },
     {
         "id": 2,
-        "name": "Joshua",
-        "logo": "J",
+        "name": "Varaty",
+        "logo": "V",
         "star": 5,
         "description": "Its performance is very best. It's giving around 40+ mileage, and the best thing about this bike is its top speed. "
     },
     {
         "id": 3,
-        "name": "Joshua",
-        "logo": "J",
+        "name": "David",
+        "logo": "D",
         "star": 5,
         "description": "Awesome bike in 150cc to 200cc segment. Looks good, but I want a little bit more attractive design, but it's ok, not a big issue. Otherwise, mileage is nice over 40kmpl, top speed is awesome up to 150kmph, and it sounds very nice and amazing. Most probably this is the best sounding single-cylinder bike in the world. "
     },
     {
         "id": 4,
-        "name": "Joshua",
-        "logo": "J",
+        "name": "Lukas",
+        "logo": "L",
         "star": 5,
-        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+        "description": "Some of the key features of the Yamaha R15 V4 include - Advanced Fully Digital LCD Meter Console, Assist & Slipper Clutch, Variable Valves Actuation (VVA), Traction Control System, Quick Shifter (Optional), Upside Down Front Forks, Super Wide 140mm Radial Rear Tyre, Side Stand Engine Cut-Off Switch, Y-connect App - Call Alert, SMS & Email, Phone Battery Status, Fuel Consumption Tracker, Maintenance Recommendations, Last Parking Location, Malfunction Notification, Revs Dashboard, Ranking, Dual Horn, Aluminum Swingarm, Class D Bi-Functional LED Headlight, LED Position Lights, Street and Track Riding Modes. "
     },
     {
         "id": 5,
-        "name": "Joshua",
-        "logo": "J",
+        "name": "Shan",
+        "logo": "S",
         "star": 5,
-        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+        "description": "Yamaha R15 V4 offers a mileage of around 40 kmpl under mixed riding conditions and if we talk about its performance, this sports bike is capable of accelerating from 0-100 kmph in around 10 seconds while the top speed of R15 V4 hovers around 145 kmph. "
     },
     {
         "id": 6,
-        "name": "Joshua",
-        "logo": "J",
+        "name": "Ontony",
+        "logo": "O",
         "star": 5,
-        "description": "I got this in a rush when I needed a new headset. In hindsight a bit more research would have had me getting something else. As a precursor to the review I feel that it is worth noting that I am very rough on audio peripherals. I don't know why, but they usually last me about 6 months regardless of the quality and price. "
+        "description": "Unlike the previous generation model, the company is offering multiple variants to choose from. The R15 V4 basic model comes in two colour options including Metallic Red and Dark Knight. These can be equipped with a quick-shifter at an additional cost. The most expensive variant of the R15 V4 is the Racing Blue edition and it comes with a quick-shifter as standard. "
     }
 ]
